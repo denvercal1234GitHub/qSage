@@ -1,9 +1,16 @@
 Package: qSage
-Title: What the Package Does (One Line, Title Case)
+Title: Utility Functions for Single-Cell and Bioinformatics Workflows
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
+    person(
+      "Quang",
+      "Nguyen",
+      email = "quang.nguyen.dukoxblue@gmail.com",
+      role = c("aut", "cre")
+    )
+Description: Provides utility functions and wrappers for single-cell RNA-seq,
+    Seurat workflows, plotting, metadata summarisation, signature handling,
+    and reproducible bioinformatics analyses.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
