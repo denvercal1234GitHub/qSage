@@ -4,16 +4,16 @@
 \name{qSage-package}
 \alias{qSage}
 \alias{qSage-package}
-\title{qSage: What the Package Does (One Line, Title Case)}
+\title{qSage: Utility Functions for Single-Cell and Bioinformatics Workflows}
 \description{
-What the package does (one paragraph).
+Provides utility functions and wrappers for single-cell RNA-seq, Seurat workflows, plotting, metadata summarisation, signature handling, and reproducible bioinformatics analyses.
 }
 \author{
-\strong{Maintainer}: First Last \email{first.last@example.com}
+\strong{Maintainer}: Quang Nguyen \email{quang.nguyen.dukoxblue@gmail.com}
 
 Authors:
 \itemize{
-  \item First Last \email{first.last@example.com}
+  \item Quang Nguyen \email{quang.nguyen.dukoxblue@gmail.com}
 }
 
 }
